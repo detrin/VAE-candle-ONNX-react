@@ -1,0 +1,11 @@
+torch
+torchvision
+pandas
+numpy
+ipython
+matplotlib
+torchsummary
+tqdm
+scipy
+imageio
+onnx

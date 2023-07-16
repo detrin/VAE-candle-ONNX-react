@@ -1,2 +1,7 @@
 # VAE-candle-ONNX-react
-Simulation of candle flame using custom trained VAE running in ReactJS with onnxruntime-web.
+
+![](example.gif)
+
+This gif was created by VAE model. The model was trained on 720x720 images of a candle flame. The model was trained on 128642images of size 256x256. The model was trained for 28 epochs. 
+
+Check out the [demo](https://hermandaniel.com/#/candle).
