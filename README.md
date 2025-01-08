@@ -8,4 +8,4 @@ VAE model was used to extract representation of candle movement from YouTube vid
 
 This gif was created by VAE model. The model was trained on 128642images of size 256x256. The model was trained for 28 epochs. 
 
-Check out the [demo](https://hermandaniel.com/#/candle).
+Check out the [demo](https://old.hermandaniel.com/#/candle).
